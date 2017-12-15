@@ -7,4 +7,4 @@ function inc(n) {return n + 1}
 function dec(n) {return n - 1}
 function makeInt(n) {return parseFloat(n,10)}
 function preserveDecimal(n) {return parseFloat(n)}
-add(2,3)
+add (2,3)
