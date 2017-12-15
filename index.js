@@ -5,3 +5,4 @@ function divide(a,b) {return a / b}
  add (8,6);
 function inc(n) {return n + 1}
 function dec(n) {return n - 1}
+makeInt(5)
